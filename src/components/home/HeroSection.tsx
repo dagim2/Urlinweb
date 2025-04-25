@@ -29,7 +29,7 @@ const HeroSection: React.FC = () => {
       <div className="container-custom relative z-10 py-16 md:py-24">
         <div className="max-w-3xl">
           <motion.h1 
-            className="text-4xl md:text-5xl lg:text-6xl font-bold mb-6 leading-tight"
+            className="text-4xl text-white md:text-5xl lg:text-6xl font-bold mb-6 leading-tight"
             custom={0}
             initial="hidden"
             animate="visible"
